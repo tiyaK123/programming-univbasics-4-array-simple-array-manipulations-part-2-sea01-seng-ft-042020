@@ -7,12 +7,3 @@ end
 def using_uniq(array)
   array.using_uniq
 end
-def using_flatten(array)
-  array.flatten 
-end
-def using_delete(array, s)
-  array.delete(s)
-end
-def using_delete_at(array, i)
-  array,delete_at(i)
-end
